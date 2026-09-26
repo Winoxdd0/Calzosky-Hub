@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://orrxl4-protector.com/api/raw?id=i768sify"))()
+loadstring(game:HttpGet("https://orrxl4-protector.com/api/raw?id=zjapw6vj"))()
